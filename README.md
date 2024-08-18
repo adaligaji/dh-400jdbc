@@ -4,6 +4,13 @@ DH-400JDBC
 JDBC Wrapper for the JT400 driver to connect to an AS400 using JDBC.
 
 
+Original code
+=============
+
+https://github.com/ballerkobe808/dh-400jdbc.git
+License in: https://github.com/adaligaji/dh-400jdbc/blob/master/LICENSE
+
+
 Usage
 =============
 
