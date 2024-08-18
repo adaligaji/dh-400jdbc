@@ -1,5 +1,5 @@
-DH-400JDBC
-===========
+DH-400JDBC2
+============
 
 JDBC Wrapper for the JT400 driver to connect to an AS400 using JDBC.
 
